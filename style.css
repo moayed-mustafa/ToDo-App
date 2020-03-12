@@ -1,0 +1,13 @@
+.done{
+    text-decoration: line-through;
+}
+.delete-done-todos{
+    /* border: solid black 2px; */
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+}
+.btn{
+    margin: 10px;
+}
